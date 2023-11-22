@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+}
+
+body{
+    overflow: hidden;
+    height: inherit;
+}
+
+h1{
+    position: absolute;
+    color: aqua;
+    font-size: 2rem;
+    letter-spacing: 3px;
+}
